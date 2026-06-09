@@ -1,0 +1,79 @@
+{
+  "modelo": "htrid",
+  "timestamp": "2026-06-02T15:18:27.601Z",
+  "sugerencias": {
+    "directo": {
+      "query": "htrid",
+      "cursorPos": null,
+      "resultados": [
+        "hybrid",
+        "Hridayam",
+        "hstrides",
+        "htridb",
+        "hyryder",
+        "trident",
+        "hydroxytryptophan",
+        "hidroxitriptófano",
+        "hidroxitrip",
+        "hytrin"
+      ]
+    },
+    "directo_click": {
+      "query": "htrid",
+      "cursorPos": 0,
+      "resultados": [
+        "hybrid",
+        "Hridayam",
+        "hstrides",
+        "htridb",
+        "hyryder",
+        "trident",
+        "hydroxytryptophan",
+        "hidroxitriptófano",
+        "hidroxitrip",
+        "hytrin"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*htrid",
+      "cursorPos": null,
+      "resultados": [
+        "htry",
+        "h tri",
+        "htri m",
+        "htri siemens"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*htrid*",
+      "cursorPos": 1,
+      "resultados": [
+        "htry",
+        "htri que es",
+        "htri m",
+        "htri siemens"
+      ]
+    }
+  },
+  "producto": "https://www.desitec.com.mx/modulo-monitor-doble-htri-d/",
+  "consulta": "htrid",
+  "resumenProducto": "htrid",
+  "totalSugerenciasUnicas": 15,
+  "resultadosUnicos": [
+    "hybrid",
+    "Hridayam",
+    "hstrides",
+    "htridb",
+    "hyryder",
+    "trident",
+    "hydroxytryptophan",
+    "hidroxitriptófano",
+    "hidroxitrip",
+    "hytrin",
+    "htry",
+    "h tri",
+    "htri m",
+    "htri siemens",
+    "htri que es"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "modelo": "mdf 300",
+  "timestamp": "2026-06-02T16:42:20.847Z",
+  "sugerencias": {
+    "directo": {
+      "query": "mdf 300",
+      "cursorPos": null,
+      "resultados": [
+        "mdf 300",
+        "mdf 300 manual",
+        "mdf 300 datasheet",
+        "mdf 300 mm",
+        "mdf 3000mm",
+        "mdf 300 cm",
+        "mdf 3000 x 1200",
+        "mdf 3000",
+        "mdf 3000x1500",
+        "mdf 300 installation manual"
+      ]
+    },
+    "directo_click": {
+      "query": "mdf 300",
+      "cursorPos": 0,
+      "resultados": [
+        "panneau mdf 300 cm",
+        "mobila bucatarie mdf 300 cm",
+        "mdf 300 firelite",
+        "mdf 300",
+        "honeywell mdf 300",
+        "fire lite mmf 300 dual monitor module",
+        "firelite mmf-300 manual",
+        "firelite mdf 300 data sheet",
+        "mdf 3000 x 2000",
+        "mmf 300 data sheet"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*mdf 300",
+      "cursorPos": null,
+      "resultados": [
+        "mdf 300 manual",
+        "mdf 300 datasheet",
+        "mdf 300 mm",
+        "mdf 300",
+        "mdf 3000mm",
+        "mdf 300 cm",
+        "mdf 3000 x 1200",
+        "mdf 3000",
+        "mdf 3000x1500",
+        "mdf 300 installation manual"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*mdf 300*",
+      "cursorPos": 1,
+      "resultados": [
+        "panneau mdf 300 cm",
+        "mobila bucatarie mdf 300 cm",
+        "vensterbank mdf 300 cm",
+        "armário cozinha completa 100 mdf 300cm smart madesa",
+        "panneau mdf 300",
+        "pannello mdf 300 cm",
+        "mdf 300 firelite",
+        "fl-mmf-300",
+        "hyllplan mdf 300",
+        "honeywell mdf 300"
+      ]
+    }
+  },
+  "producto": "https://www.desitec.com.mx/modulo-mdf-300/",
+  "consulta": "mdf 300",
+  "resumenProducto": "mdf 300",
+  "totalSugerenciasUnicas": 25,
+  "resultadosUnicos": [
+    "mdf 300",
+    "mdf 300 manual",
+    "mdf 300 datasheet",
+    "mdf 300 mm",
+    "mdf 3000mm",
+    "mdf 300 cm",
+    "mdf 3000 x 1200",
+    "mdf 3000",
+    "mdf 3000x1500",
+    "mdf 300 installation manual",
+    "panneau mdf 300 cm",
+    "mobila bucatarie mdf 300 cm",
+    "mdf 300 firelite",
+    "honeywell mdf 300",
+    "fire lite mmf 300 dual monitor module",
+    "firelite mmf-300 manual",
+    "firelite mdf 300 data sheet",
+    "mdf 3000 x 2000",
+    "mmf 300 data sheet",
+    "vensterbank mdf 300 cm",
+    "armário cozinha completa 100 mdf 300cm smart madesa",
+    "panneau mdf 300",
+    "pannello mdf 300 cm",
+    "fl-mmf-300",
+    "hyllplan mdf 300"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "modelo": "iso x",
+  "timestamp": "2026-06-02T16:50:07.787Z",
+  "sugerencias": {
+    "directo": {
+      "query": "iso x",
+      "cursorPos": null,
+      "resultados": [
+        "iso x",
+        "iso xp",
+        "iso xp proteina",
+        "iso x zero carb",
+        "iso xp applied nutrition",
+        "iso x notifier",
+        "iso xp windows",
+        "iso xp 32 bits",
+        "iso x clove",
+        "iso xenia"
+      ]
+    },
+    "directo_click": {
+      "query": "iso x",
+      "cursorPos": 0,
+      "resultados": [
+        "iso x",
+        "iso xp",
+        "iso xp proteina",
+        "iso x zero carb",
+        "iso xp applied nutrition",
+        "iso x notifier",
+        "iso xp windows",
+        "iso xp 32 bits",
+        "iso x clove",
+        "iso xenia"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*iso x",
+      "cursorPos": null,
+      "resultados": [
+        "iso xp",
+        "iso xp proteina",
+        "iso x",
+        "iso xp applied nutrition",
+        "iso xp whey protein isolate",
+        "iso xp 1.8 kg",
+        "iso xp precio",
+        "iso xp 1kg",
+        "iso xp vainilla",
+        "iso xp chocolate"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*iso x*",
+      "cursorPos": 1,
+      "resultados": [
+        "i love you so x until i found you",
+        "i so x",
+        "iso x notifier",
+        "iso x proteina",
+        "iso x zero carb",
+        "iso x protein complex",
+        "iso x clove",
+        "iso x gekko",
+        "iso x datasheet",
+        "iso x sage"
+      ]
+    }
+  },
+  "producto": "https://www.desitec.com.mx/modulo-iso-x/",
+  "consulta": "iso x",
+  "resumenProducto": "iso x",
+  "totalSugerenciasUnicas": 23,
+  "resultadosUnicos": [
+    "iso x",
+    "iso xp",
+    "iso xp proteina",
+    "iso x zero carb",
+    "iso xp applied nutrition",
+    "iso x notifier",
+    "iso xp windows",
+    "iso xp 32 bits",
+    "iso x clove",
+    "iso xenia",
+    "iso xp whey protein isolate",
+    "iso xp 1.8 kg",
+    "iso xp precio",
+    "iso xp 1kg",
+    "iso xp vainilla",
+    "iso xp chocolate",
+    "i love you so x until i found you",
+    "i so x",
+    "iso x proteina",
+    "iso x protein complex",
+    "iso x gekko",
+    "iso x datasheet",
+    "iso x sage"
+  ]
+}

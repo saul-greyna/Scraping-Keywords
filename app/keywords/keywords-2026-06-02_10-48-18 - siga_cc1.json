@@ -1,0 +1,94 @@
+{
+  "modelo": "siga cc1",
+  "timestamp": "2026-06-02T16:46:55.523Z",
+  "sugerencias": {
+    "directo": {
+      "query": "siga cc1",
+      "cursorPos": null,
+      "resultados": [
+        "siga cc1",
+        "siga cc1 datasheet",
+        "siga cc1 edwards",
+        "siga cc1 manual español",
+        "siga cc1 wiring diagram",
+        "siga cc1 manual",
+        "siga cc1 pdf",
+        "siga cc1 edwards pdf",
+        "siga cc1 wiring diagram pdf",
+        "siga cc1 module wiring diagram"
+      ]
+    },
+    "directo_click": {
+      "query": "siga cc1",
+      "cursorPos": 0,
+      "resultados": [
+        "edwards siga cc1",
+        "modulo siga cc1",
+        "modulo de control siga cc1",
+        "siga cc1",
+        "modulo de control siga-cc1 edwards",
+        "siga cc1 datasheet",
+        "edwards siga cc1 datasheet",
+        "est siga cc1",
+        "edwards siga cc1 single input signal module est siga cc1",
+        "siga cc1 manual español"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*siga cc1",
+      "cursorPos": null,
+      "resultados": [
+        "siga cc1",
+        "siga cc1 datasheet",
+        "siga cc1 manual",
+        "siga cc1 manual español",
+        "siga cc1 pdf",
+        "siga cc1 edwards",
+        "siga cc1 edwards pdf",
+        "siga cc1 wiring diagram",
+        "siga cc1 wiring diagram pdf",
+        "siga cc1 module wiring diagram"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*siga cc1*",
+      "cursorPos": 1,
+      "resultados": [
+        "edwards siga cc1",
+        "modulo siga cc1",
+        "modulo de control siga cc1",
+        "modulo de control siga-cc1 edwards",
+        "edwards siga cc1 datasheet",
+        "est siga cc1",
+        "edwards siga cc1 single input signal module est siga cc1",
+        "edwards siga cc1 wiring diagram",
+        "siga cc1",
+        "siga cc1 datasheet"
+      ]
+    }
+  },
+  "producto": "https://www.desitec.com.mx/modulo-siga-cc1/",
+  "consulta": "siga cc1",
+  "resumenProducto": "siga cc1",
+  "totalSugerenciasUnicas": 18,
+  "resultadosUnicos": [
+    "siga cc1",
+    "siga cc1 datasheet",
+    "siga cc1 edwards",
+    "siga cc1 manual español",
+    "siga cc1 wiring diagram",
+    "siga cc1 manual",
+    "siga cc1 pdf",
+    "siga cc1 edwards pdf",
+    "siga cc1 wiring diagram pdf",
+    "siga cc1 module wiring diagram",
+    "edwards siga cc1",
+    "modulo siga cc1",
+    "modulo de control siga cc1",
+    "modulo de control siga-cc1 edwards",
+    "edwards siga cc1 datasheet",
+    "est siga cc1",
+    "edwards siga cc1 single input signal module est siga cc1",
+    "edwards siga cc1 wiring diagram"
+  ]
+}

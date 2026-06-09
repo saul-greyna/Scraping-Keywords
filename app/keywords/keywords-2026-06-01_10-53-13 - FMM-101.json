@@ -1,0 +1,99 @@
+{
+  "modelo": "FMM-101",
+  "timestamp": "2026-06-01T16:51:50.057Z",
+  "sugerencias": {
+    "directo": {
+      "query": "FMM-101",
+      "cursorPos": null,
+      "resultados": [
+        "fmm-101",
+        "fmm-101 notifier",
+        "fmm-101 notifier manual español",
+        "fmm-101 datasheet",
+        "fmm-101 pdf",
+        "fmm-101 manual",
+        "fmm 101 notifier datasheet",
+        "fmm 101 monitor module",
+        "fmm 101 precio",
+        "fmm-101 honeywell"
+      ]
+    },
+    "directo_click": {
+      "query": "FMM-101",
+      "cursorPos": 0,
+      "resultados": [
+        "mini modulo fmm 101",
+        "fmm-101",
+        "modulo fmm 101",
+        "mini modulo notifier fmm 101",
+        "mini modulo monitor fmm 101",
+        "mini modulo de monitoreo fmm 101",
+        "modulo monitor fmm 101",
+        "fmm-101 honeywell",
+        "fmm-101 notifier",
+        "notifier modelo fmm-101"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*FMM-101",
+      "cursorPos": null,
+      "resultados": [
+        "fmm 101",
+        "fmm 101 notifier manual español",
+        "fmm 101 datasheet",
+        "fmm 101 notifier",
+        "fmm 101 pdf",
+        "fmm 101 notifier datasheet",
+        "fmm 101 monitor module",
+        "fmm 101 precio",
+        "fmm 101 manual",
+        "fmm-101 honeywell"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*FMM-101*",
+      "cursorPos": 1,
+      "resultados": [
+        "notifier fmm 101",
+        "mini modulo fmm 101",
+        "modulo fmm 101",
+        "mini modulo notifier fmm 101",
+        "mini modulo monitor fmm 101",
+        "mini modulo de monitoreo fmm 101",
+        "mini modulo monitor notifier fmm 101",
+        "modulo monitor fmm 101",
+        "fmm-101 honeywell",
+        "notifier modelo fmm-101"
+      ]
+    }
+  },
+  "resumenProducto": "FMM-101",
+  "totalSugerenciasUnicas": 25,
+  "resultadosUnicos": [
+    "fmm-101",
+    "fmm-101 notifier",
+    "fmm-101 notifier manual español",
+    "fmm-101 datasheet",
+    "fmm-101 pdf",
+    "fmm-101 manual",
+    "fmm 101 notifier datasheet",
+    "fmm 101 monitor module",
+    "fmm 101 precio",
+    "fmm-101 honeywell",
+    "mini modulo fmm 101",
+    "modulo fmm 101",
+    "mini modulo notifier fmm 101",
+    "mini modulo monitor fmm 101",
+    "mini modulo de monitoreo fmm 101",
+    "modulo monitor fmm 101",
+    "notifier modelo fmm-101",
+    "fmm 101",
+    "fmm 101 notifier manual español",
+    "fmm 101 datasheet",
+    "fmm 101 notifier",
+    "fmm 101 pdf",
+    "fmm 101 manual",
+    "notifier fmm 101",
+    "mini modulo monitor notifier fmm 101"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "modelo": "siga ct2",
+  "timestamp": "2026-06-02T15:21:26.881Z",
+  "sugerencias": {
+    "directo": {
+      "query": "siga ct2",
+      "cursorPos": null,
+      "resultados": [
+        "siga ct2",
+        "siga ct2 manual",
+        "siga ct2 wiring diagram",
+        "siga ct2 datasheet",
+        "siga ct2 manual español",
+        "siga ct2 edwards pdf",
+        "siga ct2 precio",
+        "siga ct2 wiring",
+        "siga ct2 pdf",
+        "siga ct2 edwards"
+      ]
+    },
+    "directo_click": {
+      "query": "siga ct2",
+      "cursorPos": 0,
+      "resultados": [
+        "est siga ct2 data sheet",
+        "modulo siga ct2",
+        "est siga ct2 manual",
+        "edwards siga ct2",
+        "edwards siga ct2 dual input module",
+        "siga ct2",
+        "edwards siga ct2 datasheet",
+        "edwards siga ct2 wiring diagram",
+        "est siga ct2",
+        "edwards est siga ct2"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*siga ct2",
+      "cursorPos": null,
+      "resultados": [
+        "siga ct2 manual",
+        "siga ct2 manual español",
+        "siga ct2 edwards pdf",
+        "siga ct2 precio",
+        "siga ct2",
+        "siga ct2 wiring diagram",
+        "siga ct2 datasheet",
+        "siga ct2 wiring",
+        "siga ct2 pdf",
+        "siga ct2 edwards"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*siga ct2*",
+      "cursorPos": 1,
+      "resultados": [
+        "est siga ct2 data sheet",
+        "modulo siga ct2",
+        "est siga ct2 manual",
+        "edwards siga ct2",
+        "edwards siga ct2 dual input module",
+        "edwards siga ct2 datasheet",
+        "edwards siga ct2 wiring diagram",
+        "est siga ct2",
+        "edwards est siga ct2",
+        "siga ct2"
+      ]
+    }
+  },
+  "producto": "https://www.desitec.com.mx/modulo-de-entrada-doble-siga-ct2/",
+  "consulta": "siga ct2",
+  "resumenProducto": "siga ct2",
+  "totalSugerenciasUnicas": 19,
+  "resultadosUnicos": [
+    "siga ct2",
+    "siga ct2 manual",
+    "siga ct2 wiring diagram",
+    "siga ct2 datasheet",
+    "siga ct2 manual español",
+    "siga ct2 edwards pdf",
+    "siga ct2 precio",
+    "siga ct2 wiring",
+    "siga ct2 pdf",
+    "siga ct2 edwards",
+    "est siga ct2 data sheet",
+    "modulo siga ct2",
+    "est siga ct2 manual",
+    "edwards siga ct2",
+    "edwards siga ct2 dual input module",
+    "edwards siga ct2 datasheet",
+    "edwards siga ct2 wiring diagram",
+    "est siga ct2",
+    "edwards est siga ct2"
+  ]
+}

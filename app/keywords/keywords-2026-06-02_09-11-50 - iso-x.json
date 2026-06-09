@@ -1,0 +1,106 @@
+{
+  "modelo": "iso-x",
+  "timestamp": "2026-06-02T15:10:32.188Z",
+  "sugerencias": {
+    "directo": {
+      "query": "iso-x",
+      "cursorPos": null,
+      "resultados": [
+        "iso-x",
+        "iso-x notifier",
+        "iso-x notifier manual español",
+        "iso-x datasheet",
+        "iso-xp",
+        "iso-xp whey protein isolate",
+        "iso-xp whey protein isolate vainilla",
+        "iso-xp whey protein isolate chocolate",
+        "iso-xp applied nutrition",
+        "iso-xp para que sirve"
+      ]
+    },
+    "directo_click": {
+      "query": "iso-x",
+      "cursorPos": 0,
+      "resultados": [
+        "iso-x",
+        "iso-x notifier",
+        "iso-x notifier manual español",
+        "iso-x datasheet",
+        "iso-xp",
+        "iso-xp whey protein isolate",
+        "iso-xp whey protein isolate vainilla",
+        "iso-xp whey protein isolate chocolate",
+        "iso-xp applied nutrition",
+        "iso-xp para que sirve"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*iso-x",
+      "cursorPos": null,
+      "resultados": [
+        "iso xp",
+        "iso xp proteina",
+        "iso x",
+        "iso xp applied nutrition",
+        "iso xp whey protein isolate",
+        "iso xp whey protein",
+        "iso xubuntu",
+        "iso xbox 360 extract",
+        "iso xp windows",
+        "iso x64 windows 11"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*iso-x*",
+      "cursorPos": 1,
+      "resultados": [
+        "i love you so x until i found you",
+        "i so x",
+        "iso x notifier",
+        "iso x proteina",
+        "iso x zero carb",
+        "iso x protein complex",
+        "iso x clove",
+        "iso x gekko",
+        "iso x datasheet",
+        "iso x sage"
+      ]
+    }
+  },
+  "producto": "https://www.desitec.com.mx/modulo-iso-x/",
+  "consulta": "iso-x",
+  "resumenProducto": "iso-x",
+  "totalSugerenciasUnicas": 30,
+  "resultadosUnicos": [
+    "iso-x",
+    "iso-x notifier",
+    "iso-x notifier manual español",
+    "iso-x datasheet",
+    "iso-xp",
+    "iso-xp whey protein isolate",
+    "iso-xp whey protein isolate vainilla",
+    "iso-xp whey protein isolate chocolate",
+    "iso-xp applied nutrition",
+    "iso-xp para que sirve",
+    "iso xp",
+    "iso xp proteina",
+    "iso x",
+    "iso xp applied nutrition",
+    "iso xp whey protein isolate",
+    "iso xp whey protein",
+    "iso xubuntu",
+    "iso xbox 360 extract",
+    "iso xp windows",
+    "iso x64 windows 11",
+    "i love you so x until i found you",
+    "i so x",
+    "iso x notifier",
+    "iso x proteina",
+    "iso x zero carb",
+    "iso x protein complex",
+    "iso x clove",
+    "iso x gekko",
+    "iso x datasheet",
+    "iso x sage"
+  ]
+}

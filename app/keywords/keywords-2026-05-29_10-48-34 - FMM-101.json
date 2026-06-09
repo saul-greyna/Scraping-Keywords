@@ -1,0 +1,139 @@
+{
+  "modelo": "FMM-101",
+  "timestamp": "2026-05-29T16:45:58.837Z",
+  "sugerencias": {
+    "directo": {
+      "query": "FMM-101",
+      "cursorPos": null,
+      "resultados": [
+        "fmm-101",
+        "fmm-101 notifier",
+        "fmm-101 notifier manual español",
+        "fmm-101 datasheet",
+        "fmm-101 pdf",
+        "fmm-101 manual",
+        "fmm 101 notifier datasheet",
+        "fmm 101 monitor module",
+        "fmm 101 precio",
+        "fmm-101 honeywell"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*FMM-101",
+      "cursorPos": null,
+      "resultados": [
+        "fmm 101",
+        "fmm 101 notifier manual español",
+        "fmm 101 datasheet",
+        "fmm 101 notifier",
+        "fmm 101 pdf",
+        "fmm 101 notifier datasheet",
+        "fmm 101 monitor module",
+        "fmm 101 precio",
+        "fmm 101 manual",
+        "fmm-101 honeywell"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*FMM-101*",
+      "cursorPos": null,
+      "resultados": [
+        "fmm 101",
+        "fmm 101 notifier manual español",
+        "fmm 101 datasheet",
+        "fmm 101 notifier",
+        "fmm 101 pdf",
+        "fmm 101 notifier datasheet",
+        "fmm 101 precio",
+        "fmm 101 manual",
+        "fmm-101 honeywell",
+        "fmm 101 ficha tecnica"
+      ]
+    },
+    "cursor_inicio": {
+      "query": "FMM-101",
+      "cursorPos": 0,
+      "resultados": [
+        "fmm-101",
+        "fmm-101 notifier",
+        "fmm-101 notifier manual español",
+        "fmm-101 datasheet",
+        "fmm-101 pdf",
+        "fmm-101 manual",
+        "fmm 101 notifier datasheet",
+        "fmm 101 monitor module",
+        "fmm 101 precio",
+        "fmm-101 honeywell"
+      ]
+    },
+    "wildcard_inicio_cursor_inicio": {
+      "query": "*FMM-101",
+      "cursorPos": 0,
+      "resultados": [
+        "fmm 101",
+        "fmm 101 notifier manual español",
+        "fmm 101 datasheet",
+        "fmm 101 notifier",
+        "fmm 101 pdf",
+        "fmm 101 notifier datasheet",
+        "fmm 101 monitor module",
+        "fmm 101 precio",
+        "fmm 101 manual",
+        "fmm-101 honeywell"
+      ]
+    },
+    "wildcard_inicio_cursor_medio": {
+      "query": "*FMM-101",
+      "cursorPos": 1,
+      "resultados": [
+        "fmm 101",
+        "fmm 101 notifier manual español",
+        "fmm 101 datasheet",
+        "fmm 101 notifier",
+        "fmm 101 pdf",
+        "fmm 101 notifier datasheet",
+        "fmm 101 monitor module",
+        "fmm 101 precio",
+        "fmm 101 manual",
+        "fmm-101 honeywell"
+      ]
+    },
+    "wildcard_extremos_cursor_final": {
+      "query": "*FMM-101*",
+      "cursorPos": 2,
+      "resultados": [
+        "fmm 101",
+        "fmm 101 notifier manual español",
+        "fmm 101 datasheet",
+        "fmm 101 notifier",
+        "fmm 101 pdf",
+        "fmm 101 notifier datasheet",
+        "fmm 101 monitor module",
+        "fmm 101 precio",
+        "fmm 101 manual",
+        "fmm-101 honeywell"
+      ]
+    }
+  },
+  "resumenProducto": "FMM-101",
+  "totalSugerenciasUnicas": 17,
+  "resultadosUnicos": [
+    "fmm-101",
+    "fmm-101 notifier",
+    "fmm-101 notifier manual español",
+    "fmm-101 datasheet",
+    "fmm-101 pdf",
+    "fmm-101 manual",
+    "fmm 101 notifier datasheet",
+    "fmm 101 monitor module",
+    "fmm 101 precio",
+    "fmm-101 honeywell",
+    "fmm 101",
+    "fmm 101 notifier manual español",
+    "fmm 101 datasheet",
+    "fmm 101 notifier",
+    "fmm 101 pdf",
+    "fmm 101 manual",
+    "fmm 101 ficha tecnica"
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "modelo": "gate w",
+  "timestamp": "2026-06-02T15:01:23.151Z",
+  "sugerencias": {
+    "directo": {
+      "query": "gate w",
+      "cursorPos": null,
+      "resultados": [
+        "gateway",
+        "gate wiki",
+        "gate wattpad",
+        "gate west 2 caja fuerte",
+        "gate weigh anchor",
+        "gateway astro",
+        "gateway arch",
+        "gateway cia",
+        "gate wheels",
+        "gate waves"
+      ]
+    },
+    "directo_click": {
+      "query": "gate w",
+      "cursorPos": 0,
+      "resultados": [
+        "gateway",
+        "gate wiki",
+        "gate wattpad",
+        "gate west 2 caja fuerte",
+        "gate weigh anchor",
+        "gateway astro",
+        "gateway arch",
+        "gateway cia",
+        "gate wheels",
+        "gate waves"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*gate w",
+      "cursorPos": null,
+      "resultados": [
+        "gate wallah",
+        "gateway of india",
+        "gate wheel",
+        "gate wall",
+        "gate wear",
+        "gate with cat door",
+        "gate wood",
+        "gate with door",
+        "gate wooden design",
+        "gate with lock"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*gate w*",
+      "cursorPos": 1,
+      "resultados": [
+        "golden gate w san francisco",
+        "golden gate w san francisco krzyżówka",
+        "fountain gate w cosmetics",
+        "most golden gate w san francisco",
+        "cosmic gate w polsce 2026",
+        "cosmic gate w polsce",
+        "open gate w aparacie",
+        "baby gate w",
+        "mleko cow and gate w polsce",
+        "ile jest gate w krakowie"
+      ]
+    }
+  },
+  "producto": "https://www.desitec.com.mx/enlace-w-gate/",
+  "consulta": "gate w",
+  "resumenProducto": "gate w",
+  "totalSugerenciasUnicas": 30,
+  "resultadosUnicos": [
+    "gateway",
+    "gate wiki",
+    "gate wattpad",
+    "gate west 2 caja fuerte",
+    "gate weigh anchor",
+    "gateway astro",
+    "gateway arch",
+    "gateway cia",
+    "gate wheels",
+    "gate waves",
+    "gate wallah",
+    "gateway of india",
+    "gate wheel",
+    "gate wall",
+    "gate wear",
+    "gate with cat door",
+    "gate wood",
+    "gate with door",
+    "gate wooden design",
+    "gate with lock",
+    "golden gate w san francisco",
+    "golden gate w san francisco krzyżówka",
+    "fountain gate w cosmetics",
+    "most golden gate w san francisco",
+    "cosmic gate w polsce 2026",
+    "cosmic gate w polsce",
+    "open gate w aparacie",
+    "baby gate w",
+    "mleko cow and gate w polsce",
+    "ile jest gate w krakowie"
+  ]
+}

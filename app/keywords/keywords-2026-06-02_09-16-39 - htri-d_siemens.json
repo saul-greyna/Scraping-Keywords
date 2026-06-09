@@ -1,0 +1,87 @@
+{
+  "modelo": "htri-d siemens",
+  "timestamp": "2026-06-02T15:15:13.438Z",
+  "sugerencias": {
+    "directo": {
+      "query": "htri-d siemens",
+      "cursorPos": null,
+      "resultados": [
+        "htri-d siemens",
+        "htri d siemens data sheet",
+        "siemens htri d wiring diagram",
+        "siemens htri d manual",
+        "siemens htri d installation manual",
+        "siemens htri-d module",
+        "siemens htri d wiring",
+        "siemens htri d wiring diagram pdf",
+        "siemens htri-d resistor",
+        "htri siemens"
+      ]
+    },
+    "directo_click": {
+      "query": "htri-d siemens",
+      "cursorPos": 0,
+      "resultados": [
+        "htri-d siemens",
+        "htri d siemens data sheet",
+        "siemens htri-d module",
+        "siemens htri d wiring",
+        "siemens htri d wiring diagram pdf",
+        "siemens htri d wiring diagram",
+        "siemens htri-d resistor",
+        "siemens htri d manual",
+        "siemens htri d installation manual",
+        "htri siemens"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*htri-d siemens",
+      "cursorPos": null,
+      "resultados": [
+        "htri d siemens",
+        "htri d siemens data sheet",
+        "siemens htri d wiring diagram",
+        "siemens htri d manual",
+        "siemens htri d installation manual",
+        "siemens htri-d module",
+        "siemens htri d wiring",
+        "siemens htri d wiring diagram pdf",
+        "siemens htri-d resistor",
+        "htri siemens"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*htri-d siemens*",
+      "cursorPos": 1,
+      "resultados": [
+        "htri d siemens",
+        "htri d siemens data sheet",
+        "siemens htri-d module",
+        "siemens htri d wiring",
+        "siemens htri d wiring diagram pdf",
+        "siemens htri d wiring diagram",
+        "siemens htri-d resistor",
+        "siemens htri d manual",
+        "siemens htri d installation manual",
+        "htri siemens"
+      ]
+    }
+  },
+  "producto": "https://www.desitec.com.mx/modulo-monitor-doble-htri-d/",
+  "consulta": "htri-d siemens",
+  "resumenProducto": "htri-d siemens",
+  "totalSugerenciasUnicas": 11,
+  "resultadosUnicos": [
+    "htri-d siemens",
+    "htri d siemens data sheet",
+    "siemens htri d wiring diagram",
+    "siemens htri d manual",
+    "siemens htri d installation manual",
+    "siemens htri-d module",
+    "siemens htri d wiring",
+    "siemens htri d wiring diagram pdf",
+    "siemens htri-d resistor",
+    "htri siemens",
+    "htri d siemens"
+  ]
+}

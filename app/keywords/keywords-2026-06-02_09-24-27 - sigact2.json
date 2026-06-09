@@ -1,0 +1,68 @@
+{
+  "modelo": "sigact2",
+  "timestamp": "2026-06-02T15:23:02.469Z",
+  "sugerencias": {
+    "directo": {
+      "query": "sigact2",
+      "cursorPos": null,
+      "resultados": [
+        "sigacecyt",
+        "sigacecyth",
+        "sigac net",
+        "sigac inmobiliaria",
+        "sigac app"
+      ]
+    },
+    "directo_click": {
+      "query": "sigact2",
+      "cursorPos": 0,
+      "resultados": [
+        "sigacecyt",
+        "sigacecyth",
+        "sigac net",
+        "sigac inmobiliaria",
+        "sigac app"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*sigact2",
+      "cursorPos": null,
+      "resultados": [
+        "sig2 0",
+        "sig2",
+        "sigc 2",
+        "sig 2.2",
+        "sigacecyth"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*sigact2*",
+      "cursorPos": 1,
+      "resultados": [
+        "sig2 0",
+        "sig2",
+        "siga 0.2",
+        "sit 2",
+        "siga 2.5"
+      ]
+    }
+  },
+  "producto": "https://www.desitec.com.mx/modulo-de-entrada-doble-siga-ct2/",
+  "consulta": "sigact2",
+  "resumenProducto": "sigact2",
+  "totalSugerenciasUnicas": 12,
+  "resultadosUnicos": [
+    "sigacecyt",
+    "sigacecyth",
+    "sigac net",
+    "sigac inmobiliaria",
+    "sigac app",
+    "sig2 0",
+    "sig2",
+    "sigc 2",
+    "sig 2.2",
+    "siga 0.2",
+    "sit 2",
+    "siga 2.5"
+  ]
+}

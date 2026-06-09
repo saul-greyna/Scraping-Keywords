@@ -1,0 +1,97 @@
+{
+  "modelo": "w-gate",
+  "timestamp": "2026-06-02T16:36:17.967Z",
+  "sugerencias": {
+    "directo": {
+      "query": "w-gate",
+      "cursorPos": null,
+      "resultados": [
+        "w-gate",
+        "w gate firelite",
+        "w gate city blvd",
+        "w gate city blvd greensboro nc",
+        "w gate lba",
+        "w gate city blvd greensboro nc 27407",
+        "w gate quantum",
+        "w gateway blvd",
+        "w gates tower",
+        "w gateway"
+      ]
+    },
+    "directo_click": {
+      "query": "w-gate",
+      "cursorPos": 0,
+      "resultados": [
+        "7575 north sam houston pkwy w gate 3 houston tx 77064",
+        "3121 w gate city blvd greensboro nc 27407",
+        "1921 w gate city blvd greensboro nc 27403",
+        "3821 w gate city blvd",
+        "5710 w gate city blvd greensboro nc 27407",
+        "w-gate",
+        "5710 w gate city blvd",
+        "3220 w gate city blvd greensboro nc 27407",
+        "4623 w gate city blvd",
+        "911 w gate city blvd greensboro nc 27403"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*w-gate",
+      "cursorPos": null,
+      "resultados": [
+        "w gate",
+        "w gate firelite",
+        "w gate city blvd",
+        "w gate city blvd greensboro nc",
+        "w gate lba",
+        "w gate city blvd greensboro nc 27407",
+        "w gate quantum",
+        "w gateway blvd",
+        "w gates tower",
+        "w gateway"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*w-gate*",
+      "cursorPos": 1,
+      "resultados": [
+        "7575 north sam houston pkwy w gate 3 houston tx 77064",
+        "7575 north sam houston pkwy w gate 1 houston tx 77064",
+        "3121 w gate city blvd greensboro nc 27407",
+        "1921 w gate city blvd greensboro nc 27403",
+        "3821 w gate city blvd",
+        "5710 w gate city blvd greensboro nc 27407",
+        "5710 w gate city blvd",
+        "3220 w gate city blvd greensboro nc 27407",
+        "4623 w gate city blvd",
+        "911 w gate city blvd greensboro nc 27403"
+      ]
+    }
+  },
+  "producto": "https://www.desitec.com.mx/enlace-w-gate/",
+  "consulta": "w-gate",
+  "resumenProducto": "w-gate",
+  "totalSugerenciasUnicas": 21,
+  "resultadosUnicos": [
+    "w-gate",
+    "w gate firelite",
+    "w gate city blvd",
+    "w gate city blvd greensboro nc",
+    "w gate lba",
+    "w gate city blvd greensboro nc 27407",
+    "w gate quantum",
+    "w gateway blvd",
+    "w gates tower",
+    "w gateway",
+    "7575 north sam houston pkwy w gate 3 houston tx 77064",
+    "3121 w gate city blvd greensboro nc 27407",
+    "1921 w gate city blvd greensboro nc 27403",
+    "3821 w gate city blvd",
+    "5710 w gate city blvd greensboro nc 27407",
+    "5710 w gate city blvd",
+    "3220 w gate city blvd greensboro nc 27407",
+    "4623 w gate city blvd",
+    "911 w gate city blvd greensboro nc 27403",
+    "w gate",
+    "7575 north sam houston pkwy w gate 1 houston tx 77064"
+  ]
+}

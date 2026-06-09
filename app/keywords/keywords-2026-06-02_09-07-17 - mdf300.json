@@ -1,0 +1,91 @@
+{
+  "modelo": "mdf300",
+  "timestamp": "2026-06-02T15:05:54.889Z",
+  "sugerencias": {
+    "directo": {
+      "query": "mdf300",
+      "cursorPos": null,
+      "resultados": [
+        "mdf 300",
+        "mdf 300a",
+        "mmf 300 data sheet",
+        "3000 x 1200 mdf",
+        "mdf 300 manual",
+        "mdf 3000 x 600",
+        "mdf 3000mm",
+        "mdf 300 installation manual",
+        "mdf 300 mm",
+        "mdf 3000 x 1200"
+      ]
+    },
+    "directo_click": {
+      "query": "mdf300",
+      "cursorPos": 0,
+      "resultados": [
+        "fl mdf300",
+        "mdf 300",
+        "firelite mdf300",
+        "mdf 300a",
+        "mmf 300 data sheet",
+        "3000 x 1200 mdf",
+        "mdf 300 manual",
+        "mdf 3000 x 600",
+        "mdf 3000mm",
+        "mdf 300 installation manual"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*mdf300",
+      "cursorPos": null,
+      "resultados": [
+        "mdf 300",
+        "mdf 300a",
+        "mmf 300 data sheet",
+        "3000 x 1200 mdf",
+        "mdf 300 manual",
+        "mdf 3000 x 600",
+        "mdf 3000mm",
+        "mdf 300 installation manual",
+        "mdf 300 mm",
+        "mdf 3000 x 1200"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*mdf300*",
+      "cursorPos": 1,
+      "resultados": [
+        "fl mdf300",
+        "firelite mdf300",
+        "mdf 300",
+        "mmf 300 data sheet",
+        "mdf 300 resistor",
+        "mdf 300 manual",
+        "mdf 300 pair",
+        "mdf 300 installation manual",
+        "mdf 300 mm",
+        "mdf 300 x 300"
+      ]
+    }
+  },
+  "producto": "https://www.desitec.com.mx/modulo-mdf-300/",
+  "consulta": "mdf300",
+  "resumenProducto": "mdf300",
+  "totalSugerenciasUnicas": 15,
+  "resultadosUnicos": [
+    "mdf 300",
+    "mdf 300a",
+    "mmf 300 data sheet",
+    "3000 x 1200 mdf",
+    "mdf 300 manual",
+    "mdf 3000 x 600",
+    "mdf 3000mm",
+    "mdf 300 installation manual",
+    "mdf 300 mm",
+    "mdf 3000 x 1200",
+    "fl mdf300",
+    "firelite mdf300",
+    "mdf 300 resistor",
+    "mdf 300 pair",
+    "mdf 300 x 300"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "modelo": "wgate",
+  "timestamp": "2026-06-02T14:59:50.531Z",
+  "sugerencias": {
+    "directo": {
+      "query": "wgate",
+      "cursorPos": null,
+      "resultados": [
+        "wgate",
+        "@wgatever podcast",
+        "agate meaning",
+        "wgate electrolux",
+        "wildgate game",
+        "gate-parking",
+        "wgates tower",
+        "wgate lba",
+        "dan wgate",
+        "scripts wgate"
+      ]
+    },
+    "directo_click": {
+      "query": "wgate",
+      "cursorPos": 0,
+      "resultados": [
+        "robert harris wgate",
+        "dan wgate",
+        "robert harris what auckland",
+        "scripts wgate",
+        "robert harris what nz",
+        "wgate",
+        "wgates tower",
+        "@wgatever podcast",
+        "gate parking",
+        "agate meaning"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*wgate",
+      "cursorPos": null,
+      "resultados": [
+        "*gate paper code",
+        "gate/grand order",
+        "gateway bible",
+        "gateway login",
+        "gateyour guide",
+        "gate your gide",
+        "gateau au chocolat",
+        "gateau au yaourt",
+        "gates bill",
+        "heaven's gate"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*wgate*",
+      "cursorPos": 1,
+      "resultados": [
+        "robert harris wgate",
+        "dan wgate",
+        "robert harris what auckland",
+        "scripts wgate",
+        "robert harris what nz",
+        "gate/grand order",
+        "gate anime",
+        "gate io",
+        "gate your gide",
+        "gate valve"
+      ]
+    }
+  },
+  "producto": "https://www.desitec.com.mx/enlace-w-gate/",
+  "consulta": "wgate",
+  "resumenProducto": "wgate",
+  "totalSugerenciasUnicas": 27,
+  "resultadosUnicos": [
+    "wgate",
+    "@wgatever podcast",
+    "agate meaning",
+    "wgate electrolux",
+    "wildgate game",
+    "gate-parking",
+    "wgates tower",
+    "wgate lba",
+    "dan wgate",
+    "scripts wgate",
+    "robert harris wgate",
+    "robert harris what auckland",
+    "robert harris what nz",
+    "gate parking",
+    "*gate paper code",
+    "gate/grand order",
+    "gateway bible",
+    "gateway login",
+    "gateyour guide",
+    "gate your gide",
+    "gateau au chocolat",
+    "gateau au yaourt",
+    "gates bill",
+    "heaven's gate",
+    "gate anime",
+    "gate io",
+    "gate valve"
+  ]
+}

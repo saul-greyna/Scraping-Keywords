@@ -1,0 +1,105 @@
+{
+  "modelo": "NFS-320",
+  "timestamp": "2026-06-01T18:38:43.386Z",
+  "sugerencias": {
+    "directo": {
+      "query": "NFS-320",
+      "cursorPos": null,
+      "resultados": [
+        "nfs-320",
+        "nfs-320-sp",
+        "nfs-320 notifier",
+        "nfs-320 datasheet",
+        "nfs-320 pdf",
+        "nfs-320 manual",
+        "nfs-320 honeywell",
+        "nfs-320 programming manual",
+        "nfs-320 manual programación",
+        "nfs-320e-sp"
+      ]
+    },
+    "directo_click": {
+      "query": "NFS-320",
+      "cursorPos": 0,
+      "resultados": [
+        "notifier nfs 320",
+        "notifier nfs 320 manual en español",
+        "panel notifier nfs 320",
+        "panel nfs 320",
+        "notifier nfs 320 manual de programación pdf español",
+        "notifier nfs 320 manual pdf",
+        "nfs-320",
+        "central de incendio notifier nfs 320",
+        "honeywell nfs 320",
+        "notifier nfs 320 ficha técnica"
+      ]
+    },
+    "wildcard_inicio": {
+      "query": "*NFS-320",
+      "cursorPos": null,
+      "resultados": [
+        "nfs 320",
+        "nfs 320 sp",
+        "nfs 320 notifier",
+        "nfs 320 datasheet",
+        "nfs 320 manual",
+        "nfs 320e sp",
+        "nfs 320 panel",
+        "nfs 320 programming manual",
+        "nfs 320e",
+        "nfs 320 manual español"
+      ]
+    },
+    "wildcard_extremos": {
+      "query": "*NFS-320*",
+      "cursorPos": 1,
+      "resultados": [
+        "notifier nfs 320",
+        "notifier nfs 320 manual en español",
+        "panel notifier nfs 320",
+        "panel nfs 320",
+        "notifier nfs 320 manual de programación pdf español",
+        "notifier nfs 320 manual pdf",
+        "notifier nfs 320 ficha tecnica",
+        "central notifier nfs 320",
+        "central de incendio notifier nfs 320",
+        "honeywell nfs 320"
+      ]
+    }
+  },
+  "resumenProducto": "NFS-320",
+  "totalSugerenciasUnicas": 31,
+  "resultadosUnicos": [
+    "nfs-320",
+    "nfs-320-sp",
+    "nfs-320 notifier",
+    "nfs-320 datasheet",
+    "nfs-320 pdf",
+    "nfs-320 manual",
+    "nfs-320 honeywell",
+    "nfs-320 programming manual",
+    "nfs-320 manual programación",
+    "nfs-320e-sp",
+    "notifier nfs 320",
+    "notifier nfs 320 manual en español",
+    "panel notifier nfs 320",
+    "panel nfs 320",
+    "notifier nfs 320 manual de programación pdf español",
+    "notifier nfs 320 manual pdf",
+    "central de incendio notifier nfs 320",
+    "honeywell nfs 320",
+    "notifier nfs 320 ficha técnica",
+    "nfs 320",
+    "nfs 320 sp",
+    "nfs 320 notifier",
+    "nfs 320 datasheet",
+    "nfs 320 manual",
+    "nfs 320e sp",
+    "nfs 320 panel",
+    "nfs 320 programming manual",
+    "nfs 320e",
+    "nfs 320 manual español",
+    "notifier nfs 320 ficha tecnica",
+    "central notifier nfs 320"
+  ]
+}
