@@ -11,13 +11,13 @@ import { saveComparisonToXlsx } from '../app/outputs/saveComparisonToXlsx.js';
 const XLSX_PATH = path.join(
     process.cwd(),
     'data',
-    'Productos-keywords-relacionadas-1.xlsx'
+    'Productos keywords relacionadas 1.xlsx'
 );
 
 const SEARCH_REPORT_PATH = path.join(
     process.cwd(),
     'data',
-    'reporte-busquedas-mayo.xlsx'
+    'BARRA DE BUSQUEDAS MAYO.xlsx'
 );
 
 async function run() {
